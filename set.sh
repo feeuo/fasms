@@ -1,4 +1,4 @@
-echo " ติดตั้งโมดูลรอสักครู่ "
+echo " กำลังเชื่อต่อรอสักครู่ "
 echo ""
 pip3 install requests
 pip3 install colorama
