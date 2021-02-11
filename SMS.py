@@ -1,8 +1,8 @@
 import requests, random, datetime, sys, time, argparse, os, colorama
 os.system("clear")
 banner = """\033[36m
-อยู่เฉยๆอย่าดิ้น  
-  BY:SCK SpamerSMS
+ไม่เอาไม่ร้อง  
+  BY:เทพเจ้าปาล์ม FB : ไก่'กา ปลา'กระ'ป๋อง
 """
 print(banner)
 _phone = input('\033[36m(66ตามด้วยเบอร์)>>\033[0m \033[35m ')
@@ -24,7 +24,7 @@ _phone9 = _phone[1:]
 _phone9dostavista = _phone9[:3]+'+'+_phone9[3:6]+'-'+_phone9[6:8]+'-'+_phone9[8:10]
 
 iteration = 0
-print('กำลังทำงาน! \033[32m ')
+print('กำลังทำงานกรุณารอ! \033[32m ')
 print(' ')
 while True:
 	_email = _name+f'{iteration}'+'@gmail.com'
